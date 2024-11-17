@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence|Web3|Metaverse**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-cd6d9.web.app/](https://portfolio-cd6d9.web.app/)
+- 👨‍💻 All of my projects are available at https://a-practice-of-class-3-governor-initiative-b1ju.vercel.app/
 
 - 💬 Ask me about **Ask Me About: Frontend Development, JavaScript, React, Git, and My Journey into AI**
 
